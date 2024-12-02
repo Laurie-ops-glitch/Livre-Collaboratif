@@ -20,7 +20,7 @@
 
  ## **Licence**
 
-Ce projet est sous licence [MIT] (LICENSE).
+Ce projet est sous licence [MIT] (LICENSE). Pour plus détails, consulltez le fichier [MIT LICENSE] (https://github.com/Laurie-ops-glitch/Livre-Collaboratif?tab=MIT-1-ov-file#)
 
 ## **Contact**
 

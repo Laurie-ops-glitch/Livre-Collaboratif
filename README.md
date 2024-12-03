@@ -1,7 +1,7 @@
 
 # Supernatural
-![Couverture du Livre] (!Uploading Supernatural-wallpapers-HD-mobile.jpg…)
-)
+![Couverture du Livre]  (https://github.com/Laurie-ops-glitch/Livre-Collaboratif/issues/2#issue-2713487430)
+
 
 ## **Description du projet**
  Ce projet contient le livre numerique intitulé **Supernatural**, qui explore les mystères et les phénomènes paranormaux à travers des récits captivants. Ce livre est destiné à un public mature et les amateurs de l'horreur et de la fantasie et vise à divertir les lecteurs en explorant des thèmes profonds en rapport avec le surnatural.

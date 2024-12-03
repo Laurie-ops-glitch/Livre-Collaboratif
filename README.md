@@ -14,10 +14,10 @@
 ## **Contributeurs**
 
 7. -**Gourdet Carlensa**- README.md(jsp)
-8. -**Jn Philippe Rachel**- jsp
-9. -**Lucien Jalaluthza**- idk
+8. -**Jn Philippe Rachel**- (Conclusion)
+9. -**Lucien Jalaluthza**- (chapitre-1. md)
 10. -**Val Lauretta**- (chapitre-3. md)
-11. -**Verdier Marie Judely**-
+11. -**Verdier Marie Judely**- (chapitre-2. md)
 
  ## **Licence**
 

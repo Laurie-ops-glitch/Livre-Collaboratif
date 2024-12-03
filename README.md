@@ -1,6 +1,7 @@
 
 # Supernatural
- https://github.com/Carlensa/DEANNN/issues/1#issue-2715527112
+ ![Couverture du Livre] (!Uploading Supernatural-wallpapers-HD-mobile.jpg…)
+)
 
 ## **Description du projet**
  Ce projet contient le livre numerique intitulé **Supernatural**, qui explore les mystères et les phénomènes paranormaux à travers des récits captivants. Ce livre est destiné à un public mature et les amateurs de l'horreur et de la fantasie et vise à divertir les lecteurs en explorant des thèmes profonds en rapport avec le surnatural.

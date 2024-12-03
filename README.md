@@ -1,14 +1,13 @@
-chapitre-1
   <h2> Chapitre 1: Les legendes </h2>
        <img src="https://i.pinimg.com/736x/03/7a/4d/037a4dc6f6105deec3cd8fa7d8a7d2ad.jpg" alt="Lights" width= 300px height="380" align="right">
 <br>
         Nous avons tous deja entendu parle des dragons, des fees, des geants. Ces contes qui nous faisait reves dans notre enfance, qui nourrissais notre imagination
         et qui placait de l'espoir dans nos coeurs d'enfants son appeles: des legendes. Ayant pour but l'instruction, les legendes sont generalement des recits utilisant 
         des elements factuels, comme des personnages, des lieux, des evenements historiques, pour faire passer un message particulier. Ayant une origine orale de par son objectif
-        moralisatrice, la legende se propageait souvent de generation en generation, de bouche a oreille, et finissait par acquerir des caracteristiques fantastiques. Il lui
+        moralisatrice, la legende se propageait souvent de generation en generation, de  bouche a oreille, et finissait par acquerir des caracteristiques fantastiques. <br><br> Il lui
         fallut du temps avant que les legendes soient egalement ecrites. Dans chaque conte, dans chaque legende, on obtient des lecons, que ce soit dans le cadre de l'instruction 
         des enfants comme "Blanche neige" ayant pour morale de ne pas faire confiance aux etrangers ou "La belle au bois dormant" ayant pour lecon de toujours obeir aux adultes ou 
-        aux parents, les legendes nous apportent toujours une valeur a appliquer. Mais, la notion a finit par se faire melanger avec la notion des mythes, car pour chaque legende que ce soit les nains, les fantomes, les sirenes, on retrouve des histoires, des mythes a faire frissonner le corps inspires par ces legendes. <br>
+        aux parents, les legendes nous apportent toujours une valeur a appliquer. Mais, la notion a finit par se faire melanger avec la notion des mythes, car pour chaque legende que ce soit les nains, les fantomes, les sirenes, on retrouve des histoires, des mythes a faire frissonner le corps inspires par ces legendes.
         Dans ce chapitre, on vous racontera quelques legendes de renommee certaines qui vous feront rever, mais surtout, apprendre et vivre. 
         <h3>La dame blanche (source : https://www.celles-qui-osent.com/)</h3>
 

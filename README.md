@@ -1,4 +1,4 @@
-  <h2> Chapitre 3: Les legendes </h2>
+  <h2> Chapitre 1: Les legendes </h2>
        <img src="https://i.pinimg.com/736x/03/7a/4d/037a4dc6f6105deec3cd8fa7d8a7d2ad.jpg" alt="Lights" width= 300px height="380" align="right">
 <br>
         Nous avons tous deja entendu parle des dragons, des fees, des geants. Ces contes qui nous faisait reves dans notre enfance, qui nourrissais notre imagination

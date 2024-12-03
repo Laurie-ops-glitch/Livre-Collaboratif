@@ -17,7 +17,7 @@ Même si vous ne l’avez jamais vue, vous en avez forcément entendu parler. De
 Une histoire de fantômes qui évolue au fil des siècles
 La Dame blanche ne se contente pas d’une seule histoire. Parfois malveillante, parfois protectrice, elle est avant tout une entité féminine se révélant sous différents aspects à travers les siècles. Retour sur les principales formes d’apparition de la Dame blanche.
 
-<img src="https://i.pinimg.com/736x/03/7a/4d/037a4dc6f6105deec3cd8fa7d8a7d2ad.jpg" alt="Lights" width= 400px height="480" align="right">
+<img src="https://i.pinimg.com/736x/03/7a/4d/037a4dc6f6105deec3cd8fa7d8a7d2ad.jpg" alt="Lights" width= 500px height="580" align="right">
 
 <h4>La fée revenante</h4>
 Vous pensiez que toutes les fées étaient bienveillantes ? Loin des contes de fées traditionnels, la Dame blanche est associée depuis le Moyen Âge à une fée revenante qui s’attaquerait à tous ceux qui se risquent à l’approcher de près. Pour certains, elle ne serait autre que la fée Mélusine, une créature condamnée à vivre avec une queue de serpent pour avoir tué son père.

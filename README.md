@@ -1,3 +1,4 @@
+chapitre-1
   <h2> Chapitre 1: Les legendes </h2>
        <img src="https://i.pinimg.com/736x/03/7a/4d/037a4dc6f6105deec3cd8fa7d8a7d2ad.jpg" alt="Lights" width= 300px height="380" align="right">
 <br>
@@ -32,3 +33,12 @@ Dans le folklore celtique, la Dame blanche se présente sous la forme d’une la
 À partir du XVIe siècle, l’histoire de la Dame blanche se propage à travers des récits de revenantes apparaissant dans leur château après une mort atroce.
 
 Dans le Périgord, la Dame blanche du château de Puymartin ne serait autre que le fantôme de Thérèse de Saint-Clar. La légende raconte que vers 1560, l’aristocrate fut surprise par son mari dans les bras d’un autre homme. Fou de jalousie, le mari tua l’amant et emprisonna Thérèse de Saint-Clar dans la tour nord du château pendant 15 années. Après sa mort, le mari décida même d’enfouir le corps de sa femme dans les murs. Depuis, quelques habitants et visiteurs du château affirment avoir aperçu cette Dame blanche ou avoir entendu le crissement de ses pas dans les escaliers menant à sa geôle…
+Chapitre-3
+
+
+Chapitre-2
+
+
+
+ main
+ main

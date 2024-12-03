@@ -12,7 +12,7 @@
 
 Même si vous ne l’avez jamais vue, vous en avez forcément entendu parler. Depuis le Moyen Âge, la Dame blanche effraye tous ceux qui prononcent son nom, même ceux qui ne veulent pas l’admettre. Des anecdotes racontées au coin du feu aux récits terrifiants de châteaux hantés, l’histoire de la Dame blanche est une véritable légende urbaine qui traverse les époques comme les continents. Fée, messagère, châtelaine, lavandière, auto-stoppeuse… les différents visages de ce fantôme féminin n’ont pas fini de nous donner des frissons. Si vous raffolez des histoires qui font peur, découvrez tous les mythes qui entourent la légende de la Dame blanche.
 
-<img src="https://i.pinimg.com/736x/c8/b0/3d/c8b03de3db465c4d66da7061bc54b630.jpg" alt="Lights" width= 500px height="580" align="right">
+<img src="https://i.pinimg.com/736x/c8/b0/3d/c8b03de3db465c4d66da7061bc54b630.jpg" alt="Lights" width= 400px height="480" align="right">
 Une histoire de fantômes qui évolue au fil des siècles
 La Dame blanche ne se contente pas d’une seule histoire. Parfois malveillante, parfois protectrice, elle est avant tout une entité féminine se révélant sous différents aspects à travers les siècles. Retour sur les principales formes d’apparition de la Dame blanche.
 

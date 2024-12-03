@@ -1,6 +1,6 @@
 
 # Supernatural
-![Couverture du Livre] https://github.com/Carlensa/Supernatural/issues/1#issue-2715494324
+ (https://github.com/Carlensa/Supernatural/issues/1#issue-2715494324)
 
 
 ## **Description du projet**

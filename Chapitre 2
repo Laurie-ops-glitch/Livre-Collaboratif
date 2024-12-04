@@ -3,33 +3,11 @@
     <head>
         <meta charset="UTF-8"><meta name="viewport"content="width=device-width,initial-scale=1.0">
         <title>supernatural-Chapitre-1</title>
-        <style>
-            body {
-                font-family:Arial,sans-serif;
-                margin: 20px;
-                line-height: 1.6;
-                background-color: #a4859c;
-            }
-            h1 {
-                text-align: center;
-                color: #070000;
-            }
-            h2 {
-                text-align: center;
-                color: #025b3e;
-            }
-            p {
-                margin-bottom: 15px;
-                color: #000607;
-            }
-        </style>
-    </head>
-    <body>
-    
         <h1>Supernatural</h1>
         <br>
        <h2>Chapitre 1 : Les Fantômes</h2>
-       <br><br><br>
+    </head>
+    <body>
     
        <p>Dans un monde où la science et la raison régissent la vie quotidienne, des ombres persistantes hantent les recoins de notre existence. Des histoires de fantômes, de monstres et de mystères inexplicables circulent de génération en génération, alimentant notre imaginaire collectif. <strong>"Supernatural"</strong> nous plonge au cœur de ces récits fascinants, où chaque page révèle un nouvel aspect de l’invisible qui nous entoure.</p>
 

@@ -36,7 +36,19 @@ L'Ange de la Mort est un ange noir chargé d'emmener les âmes des morts dans l'
 Les anges sont souvent considérés comme des êtres bienveillants qui sont là pour nous aider. Cependant, ils peuvent également être considérés comme des créatures redoutables capables d’apporter la mort et la destruction. Il est important de se rappeler que les anges sont des êtres neutres et que c’est à nous de décider de la manière dont nous interagissons avec eux.
       </p></br>
     <li>Vengeurs divins</li>
+      <p>
+          Il existe différents types d'anges. Certaines personnes croient aux anges gardiens, tandis que d’autres croient aux anges vengeurs. On pense que les anges gardiens protègent les gens du mal. On pense que les anges vengeurs punissent les gens qui ont mal agi.</br>
+La plupart des gens croient aux anges gardiens. On pense que les anges gardiens sont envoyés par Dieu pour protéger les gens du mal. Ils sont souvent perçus comme étant doux et aimants. On dit que les anges gardiens sont capables d’aider les gens en cas de besoin.</br>
+Les anges vengeurs ne sont pas aussi populaires que les anges gardiens. On pense que les anges vengeurs sont envoyés par Dieu pour punir les gens qui ont mal agi. Ils sont souvent perçus comme étant féroces et puissants. On dit que les anges vengeurs sont capables d'aider les gens à obtenir justice.
+      </p></br>
     <li>Guides angéliques</li>
+      <p>
+          Les anges sont de toutes formes et tailles. Ils peuvent être dodus ou minces, avoir des ailes ou non et porter des robes fluides ou de simples tuniques. Mais tous les anges ont une chose en commun : ils sont des messagers de Dieu.
+Les anges sont souvent divisés en deux catégories principales : ceux qui servent de protecteurs et ceux qui agissent comme guides. Au sein de ces catégories, il existe différents types d’anges avec différents rôles à jouer.</br>
+En tant que protecteurs, les anges peuvent prendre de nombreuses formes. Ils peuvent apparaître comme de redoutables guerriers avec l’épée dégainée, ou comme de doux guérisseurs avec des paroles apaisantes et un toucher réconfortant. Certains anges ont même le pouvoir de contrôler les éléments, comme le vent et la pluie.</br>
+En tant que guides, les anges prennent généralement une forme plus humaine. Ils peuvent apparaître comme des enseignants sages ou des amis serviables. Ils peuvent offrir des conseils à travers des rêves ou des visions, ou simplement offrir une oreille attentive et une épaule sur laquelle pleurer.</br>
+Quelle que soit leur forme, les anges sont toujours là pour nous aider. Ce sont des êtres aimants qui ne veulent rien de plus que nous voir heureux et en bonne santé. Alors si jamais vous avez besoin d'un peu d'aide d'en haut, n'hésitez pas à demander conseil à votre ange gardien.
+      </p></br>
     <li>Instruments sacrés de culte</li>
     <li>Protectorats de l'Église</li>
     <li>Anges gardiens</li>

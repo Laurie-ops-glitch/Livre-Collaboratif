@@ -1,36 +1,13 @@
-<!Doctype html>
+[Up<!Doctype html>
 <html lang="en">
     <head>
         <meta charset="UTF-8"><meta name="viewport"content="width=device-width,initial-scale=1.0">
         <title>supernatural-Chapitre-1</title>
-        <style>
-            body {
-                font-family:Arial,sans-serif;
-                margin: 20px;
-                line-height: 1.6;
-                background-color: #a4859c;
-            }
-            h1 {
-                text-align: center;
-                color: #070000;
-            }
-            h2 {
-                text-align: center;
-                color: #025b3e;
-            }
-            p {
-                margin-bottom: 15px;
-                color: #5b7d81;
-            }
-        </style>
-    </head>
-    <body>
-    
         <h1>Supernatural</h1>
         <br>
        <h2>Chapitre 1 : Les Fantômes</h2>
-       <br><br><br>
-    
+    </head>
+    <body>
        <p>Dans un monde où la science et la raison régissent la vie quotidienne, des ombres persistantes hantent les recoins de notre existence. Des histoires de fantômes, de monstres et de mystères inexplicables circulent de génération en génération, alimentant notre imaginaire collectif. <strong>"Supernatural"</strong> nous plonge au cœur de ces récits fascinants, où chaque page révèle un nouvel aspect de l’invisible qui nous entoure.</p>
 
        <p>Alors que la nuit tombe et que les étoiles scintillent, des murmures se font entendre. Les vieilles légendes des forêts sombres et des maisons abandonnées prennent vie, rendant hommage à ceux qui ont osé s'aventurer au-delà des frontières de la réalité.</p>
@@ -56,8 +33,6 @@
    
        <p>« Que faites-vous ici ? » demande-t-elle d'une voix éthérée, résonnant dans la pièce. Eren et Armin comprennent alors qu'ils ont franchi les limites de l'ordinaire, s'engageant sur un chemin dont ils ne pourront peut-être jamais revenir...</p>
     <br><br><br><br><br>
-<p>« Que faites-vous ici ? » demande-t-elle d'une voix éthérée, résonnant dans la pièce. Eren et Armin comprennent alors qu'ils ont franchi les limites de l'ordinaire, s'engageant sur un chemin dont ils ne pourront peut-être jamais revenir...</p>
-
     <p>Les mots de la dame en blanc flottent dans l'air comme une mélodie triste. Eren, bien que paralysé par la peur, ressent une étrange curiosité l'incitant à répondre. « Nous sommes ici pour comprendre votre histoire, » dit-il d'une voix tremblante. « Pourquoi hantez-vous ce manoir ? »</p>
 
     <p>La dame en blanc s'approche lentement, son visage s'éclairant d'une lueur douce. « Je cherche mon mari, » dit-elle, les larmes aux yeux. « Il est parti un soir et n'est jamais revenu. Depuis, je suis condamnée à errer ici, à la recherche de son âme. »</p>
@@ -90,5 +65,7 @@
 
     <p>Leur aventure ne fait que commencer, et les ombres du passé les guettent, prêtes à révéler leurs secrets... ou à les engloutir à jamais.</p>
 
+
+
     </body>
-</html>
+</html>loading id_ed25519.html…]()

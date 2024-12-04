@@ -1,6 +1,7 @@
-
 # Supernatural
  ![DEANNN](https://github.com/user-attachments/assets/f9550cc8-4116-450f-acd7-ac92d635ea35)
+
+Ces quelques mythes sont totalement propices a l'introduction de notre prochain chapitre. 
 
 ## **Description du projet**
  Ce projet contient le livre numerique intitulé **Supernatural**, qui explore les mystères et les phénomènes paranormaux à travers des récits captivants. Ce livre est destiné à un public mature et les amateurs de l'horreur et de la fantasie et vise à divertir les lecteurs en explorant des thèmes profonds en rapport avec le surnatural.
@@ -26,3 +27,4 @@ Ce projet est sous licence [MIT] (LICENSE). Pour plus détails, consultez le fic
 ## **Contact**
 
 Pour toute question, veuillez contacter [groupe4CCP@gmail.com] (mailto:groupe4CCP@gmail.com)
+main

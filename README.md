@@ -1,3 +1,10 @@
+<h2>Incipit</h2>
+Dans un monde où la science et la raison régissent la vie quotidienne, des ombres persistantes hantent les recoins de notre existence. Des histoires de fantômes, de monstres et de mystères inexplicables circulent de génération en génération, alimentant notre imaginaire collectif. Supernatural nous plonge au cœur de ces récits fascinants, où chaque page révèle un nouvel aspect de l’invisible qui nous entoure.
+
+Alors que la nuit tombe et que les étoiles scintillent, des murmures se font entendre. Les vieilles légendes des forêts sombres et des maisons abandonnées prennent vie, rendant hommage à ceux qui ont osé s'aventurer au-delà des frontières de la réalité.
+
+On suit les aventures des deux amis Eren Yeager et Armin Alert, inséparables depuis le lycée, ces derniers ont eu un penchant pour chasser des créatures surnaturelles telles que des démons, des fantômes et des monstres.
+
   <h2> Chapitre 1: Les legendes </h2>
        <img src="https://i.pinimg.com/736x/03/7a/4d/037a4dc6f6105deec3cd8fa7d8a7d2ad.jpg" alt="Lights" width= 300px height="380" align="right">
 <br>

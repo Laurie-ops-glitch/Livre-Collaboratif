@@ -1,7 +1,5 @@
 # Supernatural
-<img src="https://private-user-images.githubusercontent.com/186860178/391729143-e1b60e4f-6db5-4723-832e-b792fd2a30ae.jpg?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MzMzNDQwNDMsIm5iZiI6MTczMzM0Mzc0MywicGF0aCI6Ii8xODY4NjAxNzgvMzkxNzI5MTQzLWUxYjYwZTRmLTZkYjUtNDcyMy04MzJlLWI3OTJmZDJhMzBhZS5qcGc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjQxMjA0JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI0MTIwNFQyMDIyMjNaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT1jMmNjNDM3Yzc4MjViMWNhZjA0NzBlODYzZjRhMjJlODg3NDkxNGVjMDk2OWFmODA1YTEyMjUzNjQ1ZTQwMjc0JlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.35tt7nEvTTlqT3XB483JTCfv1yOu_7AAmbzAUfpTE5c">
-
-Ces quelques mythes sont totalement propices a l'introduction de notre prochain chapitre. 
+![Winshester](https://github.com/user-attachments/assets/e77e150a-d75b-4f91-8390-8932d6695dd3)
 
 ## **Description du projet**
  Ce projet contient le livre numerique intitulé **Supernatural**, qui explore les mystères et les phénomènes paranormaux à travers des récits captivants. Ce livre est destiné à un public mature et les amateurs de l'horreur et de la fantasie et vise à divertir les lecteurs en explorant des thèmes profonds en rapport avec le surnatural.

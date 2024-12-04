@@ -1,5 +1,4 @@
-chapitre-1
-  <h2> Chapitre 1: Les legendes </h2>
+ <h2> Chapitre 1: Les legendes </h2>
        <img src="https://i.pinimg.com/736x/03/7a/4d/037a4dc6f6105deec3cd8fa7d8a7d2ad.jpg" width= 400px height="480" align="right">
 <br>
         Nous avons tous deja entendu parle des dragons, des fees, des geants. Ces contes qui nous faisait reves dans notre enfance, qui nourrissais notre imagination

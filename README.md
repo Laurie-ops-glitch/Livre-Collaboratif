@@ -50,7 +50,27 @@ En tant que guides, les anges prennent généralement une forme plus humaine. Il
 Quelle que soit leur forme, les anges sont toujours là pour nous aider. Ce sont des êtres aimants qui ne veulent rien de plus que nous voir heureux et en bonne santé. Alors si jamais vous avez besoin d'un peu d'aide d'en haut, n'hésitez pas à demander conseil à votre ange gardien.
       </p></br>
     <li>Instruments sacrés de culte</li>
+      <p>
+          Les anges sont l’un des sujets les plus populaires dans la littérature religieuse, l’art et la musique. Il existe de nombreux types d’anges, chacun ayant son propre rôle dans le monde.</br>
+Les anges peuvent être divisés en deux catégories principales : </br>ceux qui servent Dieu et ceux qui sont déchus. Les anges qui servent Dieu sont appelés anges d’adoration. Ils sont chargés de diriger les humains dans l’adoration et la louange de Dieu. Ils sont également chargés de guider les humains dans leur voyage spirituel.</br>
+Les anges déchus sont ceux qui se sont rebellés contre Dieu. Ils sont également connus sous le nom de démons. Les démons sont responsables de la tentation des humains vers le péché et de les éloigner de Dieu.</br>
+Les anges d'adoration comprennent :</br>
+Chérubins : Ces anges sont souvent représentés comme des nourrissons ailés ou de jeunes enfants. Ils sont connus pour leur innocence et leur pureté. Les chérubins sont chargés de garder l'entrée du jardin d'Eden.</br>
+Séraphins : Ces anges sont souvent représentés comme des êtres ailés à six ailes. Ils sont connus pour leur sagesse et leurs connaissances. Les séraphins sont chargés de guider les humains dans leur voyage spirituel.</br>
+Archanges : Ces anges sont les anges les plus élevés du ciel. Ils sont connus pour leur puissance et leur force. Les archanges sont chargés de protéger les humains du mal.</br>
+Les anges déchus comprennent :</br>
+Lucifer : Lucifer est l'ange déchu le plus célèbre. Il est connu comme le souverain de l’enfer. Lucifer est responsable de la tentation des humains vers le péché et de leur éloignement de Dieu.</br>
+Satan : Satan est un autre nom pour Lucifer. Il est connu comme le prince des ténèbres. Satan est responsable de la tentation des humains vers le péché et de leur éloignement de Dieu.</br>
+Démons : Les démons sont des anges déchus de rang inférieur. Ils sont connus pour leurs mauvaises actions. Les démons sont responsables de la tentation des humains vers le péché et de leur éloignement de Dieu.
+      </p></br>
     <li>Protectorats de l'Église</li>
+      <p>
+          En ce qui concerne le christianisme, il existe différents types d’anges affectés à différentes tâches. Certains de ces anges sont chargés de protéger l’église. C’est ce qu’on appelle les protectorats de l’Église.
+Il existe différentes histoires et légendes entourant ces protectorats de l'Église. Une légende populaire raconte que ces anges étaient autrefois des êtres humains morts au combat alors qu’ils défendaient l’Église. En conséquence, ils se sont vu confier la tâche de protéger l’Église dans l’au-delà.
+Une autre légende populaire veut que les protectorats de l’Église soient en réalité des anges déchus. Ces anges déchus ont été chassés du ciel pour leur désobéissance. Cependant, ils ont toujours un faible pour l’Église et veulent la protéger du mal.
+Quelle que soit leur origine, les protectorats de l’Église sont réputés incroyablement puissants. On dit qu’ils sont capables de vaincre tout ennemi qui tente de nuire à l’Église. On dit également qu’ils sont capables de guérir les malades et d’accomplir d’autres miracles.
+Les protectorats de l'Église constituent une partie importante du christianisme. Ils sont chargés de protéger l’Église du danger. On dit aussi qu’ils sont capables de faire des miracles. Si vous croyez au christianisme, alors vous devriez croire aux protectorats de l’Église.
+      </p>
     <li>Anges gardiens</li>
     <li>Anges qui servent</li>
   </ol>

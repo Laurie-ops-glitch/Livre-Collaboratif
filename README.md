@@ -58,7 +58,7 @@ Les protectorats de l'Église constituent une partie importante du christianisme
     <h3>Anges gardiens</h3>
     Les anges sont des êtres de lumière et d'amour qui sont là pour nous aider et nous guider dans notre voyage spirituel. Il existe de nombreux types d’anges ayant des objectifs et des fonctions différents. Certains anges nous sont spécifiquement désignés comme nos anges gardiens personnels, tandis que d’autres peuvent entrer dans notre vie pour une tâche ou une mission spécifique.</br>
 Les anges gardiens sont peut-être le type d’ange le plus connu. Ce sont les anges qui sont chargés de nous protéger et de nous guider tout au long de la vie. Nous avons chacun au moins un ange gardien, et parfois plus selon nos besoins. Les anges gardiens sont avec nous de la naissance jusqu'à la mort, et leur seul objectif est de nous aider à traverser la vie en toute sécurité et sur notre chemin le plus élevé.</br>
-      <img src="https://i.pinimg.com/736x/f3/38/be/f338beab3777f4ae6e262141ada8a9ba.jpg" width="400" height="480" align="right"></br><hr>
+      <img src="https://i.pinimg.com/736x/f3/38/be/f338beab3777f4ae6e262141ada8a9ba.jpg" width="400" height="480" align="right"></br> </br><hr>
     <h3>Anges qui servent</h3>
     Les anges sont des êtres spirituels qui servent de messagers, de protecteurs et d'intermédiaires entre Dieu et l'humanité. Il existe de nombreux types d’anges différents, chacun ayant son propre rôle à jouer dans le plan divin.</br>
 Les anges peuvent être divisés en deux catégories principales : ceux qui servent Dieu et ceux qui servent l’humanité. Les anges qui servent Dieu sont connus sous le nom de Séraphins, Chérubins et Trônes. Ces êtres puissants sont chargés d’exécuter la volonté de Dieu et de protéger son peuple.</br>

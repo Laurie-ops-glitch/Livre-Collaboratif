@@ -1,4 +1,4 @@
-<h2>Chapitre 2: Fantomes</h2>
+<h2>Chapitre 2: Fantômes</h2>
 <img src="https://www.science-et-vie.com/wp-content/uploads/scienceetvie/2022/05/fantome.jpeg">
 
 <i>Dans un monde où la science et la raison régissent la vie quotidienne, des ombres persistantes hantent les recoins de notre existence. Des histoires de fantômes, de monstres et de mystères inexplicables circulent de génération en génération, ce qui alimente notre imaginaire collectif. <strong>Supernatural</strong> nous plonge au cœur de ces récits fascinants, où chaque page révèle un nouvel aspect de l’invisible qui nous entoure.</i>

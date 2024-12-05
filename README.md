@@ -9,7 +9,11 @@
     <p>L’idée de monstres remonte à l’aube de l’humanité. Dès les premières civilisations, des créatures mythologiques ont été inventées pour expliquer les phénomènes que l’on ne comprenait pas : tempêtes, tremblements de terre ou maladies. Dans l’Antiquité, les Grecs et les Romains peuplaient leur monde de créatures mythologiques comme les cyclopes, les harpies ou le serpent Python, créant des récits pour personnifier la peur et l’inconnu. Ces monstres étaient souvent les instruments de divinités cherchant à punir l’humanité, ou des défis pour les héros à affronter. Dans les cultures plus anciennes, comme en Mésopotamie ou en Égypte, des créatures hybrides (partiellement humaines, partiellement animales) symbolisaient aussi des forces naturelles incontrôlables. Au Moyen Âge, les monstres prenaient souvent la forme de démons ou de créatures infernales dans les récits chrétiens. Ainsi, les monstres existent depuis aussi longtemps que l’humanité, apparaissant dans chaque culture pour incarner les terreurs profondes, les mystères non résolus et les forces incontrôlables de la nature.</p>
 
 
+ <img src="https://th.bing.com/th/id/R.f17b99fe74f4b51ba71e2bec451ea63b?rik=b1kZo0FL6DrEdA&pid=ImgRaw&r=0" width="500" height="500" align="right">
 
+
+
+<h4>Depuis quand ils existent ?</h4>
 <p>Après avoir quitté le manoir de Hollow Creek, Eren et Armin se retrouvent à un croisement dans la forêt de Wisteria. La quête pour retrouver le pendentif de la dame en blanc les a conduits à une nouvelle réalité, où le danger rôde sous chaque ombre.</p>
  <p>« Nous avons besoin d'une stratégie, » dit Armin, regardant autour de lui. « Si nous cherchons le pendentif, il est probable que nous croisions d'autres créatures. »</p>
 <p>« Tu as raison, » répond Eren, son esprit déjà en ébullition avec des idées. « Après ce que nous avons vécu, nous devons être prudents. Mais je ne peux pas m'empêcher de me demander... quels autres monstres se cachent ici ? »</p>

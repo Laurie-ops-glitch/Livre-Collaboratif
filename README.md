@@ -1,13 +1,9 @@
 <h2>Chapitre 2: Fantomes</h2>
 <img src="https://www.science-et-vie.com/wp-content/uploads/scienceetvie/2022/05/fantome.jpeg">
 
-<p>Dans un monde où la science et la raison régissent la vie quotidienne, des ombres persistantes hantent les recoins de notre existence. Des histoires de fantômes, de monstres et de mystères inexplicables circulent de génération en génération, alimentant notre imaginaire collectif. <strong>supernatural</strong> nous plonge au cœur de ces récits fascinants, où chaque page révèle un nouvel aspect de l’invisible qui nous entoure.</p>
+<i>Dans un monde où la science et la raison régissent la vie quotidienne, des ombres persistantes hantent les recoins de notre existence. Des histoires de fantômes, de monstres et de mystères inexplicables circulent de génération en génération, ce qui alimente notre imaginaire collectif. <strong>Supernatural</strong> nous plonge au cœur de ces récits fascinants, où chaque page révèle un nouvel aspect de l’invisible qui nous entoure.</i>
 
-<p>Alors que la nuit tombe et que les étoiles scintillent, des murmures se font entendre. Les vieilles légendes des forêts sombres et des maisons abandonnées prennent vie, rendant hommage à ceux qui ont osé s'aventurer au-delà des frontières de la réalité.</p>
-   
-<p>On suit les aventures des deux amis Eren Yeager et Armin Alert, inséparables depuis le lycée. Leur passion pour le surnaturel les a conduits à explorer le vieux manoir de Hollow Creek, un lieu tristement célèbre pour ses apparitions fantomatiques.</p>
-   
-<p>Ce soir-là, armés de leurs lampes torches et de leurs enregistreurs audio, Eren et Armin se dirigent vers le manoir. Les histoires racontent qu'à minuit, des cris plaintifs résonnent dans les couloirs, échos des âmes perdues qui hantent les lieux.</p>
+<p>Alors que la nuit tombe et que les étoiles scintillent, des murmures se font entendre. Les vieilles légendes des forêts sombres et des maisons abandonnées prennent vie, rendant hommage à ceux qui ont osé s'aventurer au-delà des frontières de la réalité. On suit les aventures des deux amis Eren Yeager et Armin Alert, inséparables depuis le lycée. Leur passion pour le surnaturel les a conduits à explorer le vieux manoir de Hollow Creek, un lieu tristement célèbre pour ses apparitions fantomatiques. Ce soir-là, armés de leurs lampes torches et de leurs enregistreurs audio, Eren et Armin se dirigent vers le manoir. Les histoires racontent qu'à minuit, des cris plaintifs résonnent dans les couloirs, échos des âmes perdues qui hantent les lieux.</p>
    
 <i>« Si nous capturons un fantôme sur audio, nous pourrions devenir célèbres ! »</i> s'exclame Eren, impatient de découvrir les mystères du manoir.
    

@@ -1,6 +1,5 @@
 ## **Supernatural**          
 # **-Fantomes**
-#https://www.bing.com/images/search?view=detailV2&ccid=%2F9z2WE9Q&id=197BA3BDB587485F778E8C67205EDD70F3F83856&thid=OIP._9z2WE9QSY5dcFDPafzcLgHaEK&mediaurl=https%3A%2F%2Fwww.science-et-vie.com%2Fwp-content%2Fuploads%2Fscienceetvie%2F2022%2F05%2Ffantome.jpeg&cdnurl=https%3A%2F%2Fth.bing.com%2Fth%2Fid%2FR.ffdcf6584f50498e5d7050cf69fcdc2e%3Frik%3DVjj483DdXiBnjA%26pid%3DImgRaw%26r%3D0&exph=1125&expw=2000&q=Un+Fantome&simid=607986539057725251&FORM=IRPRST&ck=9708D4D226F33F5C1DD24D09376FDC2D&selectedIndex=6&itb=0&cw=1375&ch=664&ajaxhist=0&ajaxserp=0
 
 Dans un monde où la science et la raison régissent la vie quotidienne, des ombres persistantes hantent les recoins de notre existence. Des histoires de fantômes, de monstres et de mystères inexplicables circulent de génération en génération, alimentant notre imaginaire collectif. **Supernatural** nous plonge au cœur de ces récits fascinants, où chaque page révèle un nouvel aspect de l’invisible qui nous entoure.
 

@@ -52,14 +52,15 @@ Démons : Les démons sont des anges déchus de rang inférieur. Ils sont connus
       </br><hr>
     <h3>Protectorats de l'Église</h3>
           En ce qui concerne le christianisme, il existe différents types d’anges affectés à différentes tâches. Certains de ces anges sont chargés de protéger l’église. C’est ce qu’on appelle les protectorats de l’Église.
-Il existe différentes histoires et légendes entourant ces protectorats de l'Église. Une légende populaire raconte que ces anges étaient autrefois des êtres humains morts au combat alors qu’ils défendaient l’Église. En conséquence, ils se sont vu confier la tâche de protéger l’Église dans l’au-delà.</br>
+Il existe différentes histoires et légendes entourant ces protectorats de l'Église. Une légende populaire raconte que ces anges étaient autrefois des êtres humains morts au combat alors qu’ils défendaient l’Église. En conséquence, ils se sont vu confier la tâche de protéger l’Église dans l’au-delà.</br><∆/br>
 Une autre légende populaire veut que les protectorats de l’Église soient en réalité des anges déchus. Ces anges déchus ont été chassés du ciel pour leur désobéissance. Cependant, ils ont toujours un faible pour l’Église et veulent la protéger du mal.</br>
 Quelle que soit leur origine, les protectorats de l’Église sont réputés incroyablement puissants. On dit qu’ils sont capables de vaincre tout ennemi qui tente de nuire à l’Église. On dit également qu’ils sont capables de guérir les malades et d’accomplir d’autres miracles.
 Les protectorats de l'Église constituent une partie importante du christianisme. Ils sont chargés de protéger l’Église du danger. On dit aussi qu’ils sont capables de faire des miracles. Si vous croyez au christianisme, alors vous devriez croire aux protectorats de l’Église.<br><hr>
     <h3>Anges gardiens</h3>
+    <img src="https://i.pinimg.com/736x/f3/38/be/f338beab3777f4ae6e262141ada8a9ba.jpg" width="200" height="240" align="right">
     Les anges sont des êtres de lumière et d'amour qui sont là pour nous aider et nous guider dans notre voyage spirituel. Il existe de nombreux types d’anges ayant des objectifs et des fonctions différents. Certains anges nous sont spécifiquement désignés comme nos anges gardiens personnels, tandis que d’autres peuvent entrer dans notre vie pour une tâche ou une mission spécifique.</br>
-Les anges gardiens sont peut-être le type d’ange le plus connu. Ce sont les anges qui sont chargés de nous protéger et de nous guider tout au long de la vie. Nous avons chacun au moins un ange gardien, et parfois plus selon nos besoins. Les anges gardiens sont avec nous de la naissance jusqu'à la mort, et leur seul objectif est de nous aider à traverser la vie en toute sécurité et sur notre chemin le plus élevé.</br>
-      <img src="https://i.pinimg.com/736x/f3/38/be/f338beab3777f4ae6e262141ada8a9ba.jpg" width="400" height="480" align="right"></br>
+Les anges gardiens sont peut-être le type d’ange le plus connu. Ce sont les anges qui sont chargés de nous protéger et de nous guider tout au long de la vie. Nous avons chacun au moins un ange gardien, et parfois plus selon nos besoins. Les anges gardiens sont avec nous de la naissance la mort, et leur seul objectif est de nous aider à traverser la vie en toute sécurité et sur notre chemin le plus élevé.</br>
+      
   
 <hr></br>
     <h3>Anges qui servent</h3>

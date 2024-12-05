@@ -1,5 +1,6 @@
 <h1>Les Anges</h1>    
     <p> Un ange est un être céleste, dont la fonction principale est de servir d’intermédiaire entre les humains et Dieu. Étant des créatures spirituelles créées par « le créateur du ciel et de la terre », ils sont perçus comme vivant en présence de Dieu. </p>
+<hr>
   <h2>Les différents types d'anges</h2>
     <h3>Messagers célestes</h3>
       <img src="https://i.pinimg.com/736x/a3/33/fb/a333fb18153244ef77afe3c9d1245224.jpg" width="400" height="480" align="right">

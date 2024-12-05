@@ -9,7 +9,7 @@ On suit les aventures des deux amis Eren Yeager et Armin Alert, inséparables de
    
 Ce soir-là, armés de leurs lampes torches et de leurs enregistreurs audio, Eren et Armin se dirigent vers le manoir. Les histoires racontent qu'à minuit, des cris plaintifs résonnent dans les couloirs, échos des âmes perdues qui hantent les lieux.
    
-« Si nous capturons un fantôme sur audio, nous pourrions devenir célèbres ! » s'exclame Eren, impatient de découvrir les mystères du manoir.
+<i>« Si nous capturons un fantôme sur audio, nous pourrions devenir célèbres ! » s'exclame Eren, impatient de découvrir les mystères du manoir.</i>
    
 « J'espère juste que nous ne croiserons pas un esprit malveillant, » répond Armin, les mains légèrement tremblantes. « Souviens-toi de ce que la légende dit sur la dame en blanc. Elle a perdu son mari et erre dans le manoir, cherchant à le retrouver. »
 

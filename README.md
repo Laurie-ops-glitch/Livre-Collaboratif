@@ -13,7 +13,7 @@
 
 
 
-<h4>Depuis quand ils existent ?</h4>
+<h4>La suite de la chasse de deux amis</h4>
 <p>Après avoir quitté le manoir de Hollow Creek, Eren et Armin se retrouvent à un croisement dans la forêt de Wisteria. La quête pour retrouver le pendentif de la dame en blanc les a conduits à une nouvelle réalité, où le danger rôde sous chaque ombre.</p>
  <p>« Nous avons besoin d'une stratégie, » dit Armin, regardant autour de lui. « Si nous cherchons le pendentif, il est probable que nous croisions d'autres créatures. »</p>
 <p>« Tu as raison, » répond Eren, son esprit déjà en ébullition avec des idées. « Après ce que nous avons vécu, nous devons être prudents. Mais je ne peux pas m'empêcher de me demander... quels autres monstres se cachent ici ? »</p>

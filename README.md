@@ -1,6 +1,6 @@
-# **Chapitre 2: Fantomes**
-<img src="![image](https://github.com/user-attachments/assets/b3a2b118-fac3-4c78-9a3f-df292e6c2125)">
-<h2>Dans un monde où la science et la raison régissent la vie quotidienne, des ombres persistantes hantent les recoins de notre existence. Des histoires de fantômes, de monstres et de mystères inexplicables circulent de génération en génération, alimentant notre imaginaire collectif. **Supernatural** nous plonge au cœur de ces récits fascinants, où chaque page révèle un nouvel aspect de l’invisible qui nous entoure.</h2>
+<h2>Chapitre 2: Fantomes**</h2>
+<img src="https://www.google.com/imgres?imgurl=https%3A%2F%2Fwww.science-et-vie.com%2Fwp-content%2Fuploads%2Fscienceetvie%2F2022%2F05%2Ffantome.jpeg&tbnid=z1W5y15g13H-jM&vet=1&imgrefurl=https%3A%2F%2Fwww.science-et-vie.com%2Fscience-et-culture%2Fle-plus-ancien-fantome-de-lhistoire-86933.html&docid=LdPuzNnTu8qgBM&w=2000&h=1125&source=sh%2Fx%2Fim%2Fm1%2F6&kgs=f934e16c8b8e75e7&shem=abme%2Ctrie">
+Dans un monde où la science et la raison régissent la vie quotidienne, des ombres persistantes hantent les recoins de notre existence. Des histoires de fantômes, de monstres et de mystères inexplicables circulent de génération en génération, alimentant notre imaginaire collectif. **Supernatural** nous plonge au cœur de ces récits fascinants, où chaque page révèle un nouvel aspect de l’invisible qui nous entoure.
 
 Alors que la nuit tombe et que les étoiles scintillent, des murmures se font entendre. Les vieilles légendes des forêts sombres et des maisons abandonnées prennent vie, rendant hommage à ceux qui ont osé s'aventurer au-delà des frontières de la réalité.
    

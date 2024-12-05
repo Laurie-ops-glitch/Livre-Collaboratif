@@ -2,6 +2,7 @@
     <p> Un ange est un être céleste, dont la fonction principale est de servir d’intermédiaire entre les humains et Dieu. Étant des créatures spirituelles créées par « le créateur du ciel et de la terre », ils sont perçus comme vivant en présence de Dieu. </p>
 <hr>
   <h2>Les différents types d'anges</h2>
+Les anges sont classés en plusieurs catégories selon leurs rôles, leurs missions, leurs pouvoirs et leurs importances. 
     <h3>Messagers célestes</h3>
       <img src="https://i.pinimg.com/736x/a3/33/fb/a333fb18153244ef77afe3c9d1245224.jpg" width="400" height="480" align="right">
       Les anges sont souvent considérés comme des messagers célestes. Dans la Bible, les anges sont souvent envoyés par Dieu pour transmettre des messages aux gens. Dans le livre de l’Apocalypse, un ange est même envoyé pour délivrer un message à l’apôtre Jean.</br>
